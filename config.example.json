@@ -1,5 +1,5 @@
 {
-    "KMLFile" : "Paris_Tour.kml",
+    "KMLFile" : "exphigh.kml",
     "ItemToDropCountList" : {
                             "Potion" : 0,
                             "Super Potion" : 0,
@@ -12,13 +12,14 @@
     "EvolveList" : ["Pidgey", "Rattata", "Weedle", "Caterpie"],
     "KeepList" : [],
     "NoxPath" : "%APPDATA%\\Nox\\bin\\Nox.exe",
+    "MaxPokeballsPerPokemon" : 6,
     "TransferCPLimit" : 500,
     "GreatBallCPLimit" : 600,
     "UltraBallCPLimit" : 700,
     "RazzBerryCPLimit" : 200,
-    "Speed" : 7,
+    "Speed" : 5,
     "IVLimit" : 0.7,
     "ProcessPokemon" : true,
     "ProcessPokestop" : true,
-    "CheckRadius" : 70
+    "CheckRadius" : 65
 }
